@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ColorworksSDK</string>
+    <string name="button_search">Search</string>
+    <string name="button_stop">Stop</string>
+    <string name="label_model_name">Model Name:</string>
+    <string name="label_location">Location:</string>
+    <string name="label_serial_number">Serial Number:</string>
+    <string name="label_printer_id">Printer ID:</string>
+    <string name="button_printer_status">Get Status</string>
+    <string name="button_print_settings">Print Settings</string>
+    <string name="button_print">Print</string>
+    <string name="button_select_image">Select Image</string>
+    <string name="label_status">Status</string>
+    <string name="label_cyan_ink">Cyan Ink</string>
+    <string name="label_magenta_ink">Magenta Ink</string>
+    <string name="label_yellow_ink">Yellow Ink</string>
+    <string name="label_black_ink">Black Ink</string>
+    <string name="label_maintenance_box">Maintenance Box</string>
+    <string name="number_of_pages_label">Number of Pages</string>
+    <string name="epscopies_label">Number of Copies</string>
+    <string name="label_unit">Unit</string>
+    <string name="label_unit_mm">mm</string>
+    <string name="label_unit_inch">inch</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="progress_message">Printing…</string>
+    <string name="label_output_log">Output logs</string>
+    <string name="label_log_max_size">Maximum capacity of log(10–1000MB):</string>
+</resources>
